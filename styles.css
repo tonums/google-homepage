@@ -114,8 +114,9 @@ footer{
     left:0px;
     right:0px;
     color: #70757a;
+    font-family: arial,sans-serif;
     font-size: 14px;
-    background: rgb(233, 230, 230);
+    background: rgb(243, 241, 241);
 }
 footer p{
     margin-left: 20px;
