@@ -5,5 +5,5 @@ This is only replicating the view, not the function of Google
 so the Buttons and Links will not work.
 
 [View it here](https://tonums.github.io/google-homepage)
-
+!Currently only works perfect in Firefox!
  
